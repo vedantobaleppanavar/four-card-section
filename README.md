@@ -4,7 +4,7 @@ A responsive frontend challenge showcasing a four-card feature section, built wi
 
 ## Preview
 
-![desktop-preview](Screenshot(201).png) 
+![desktop-preview](preview.png) 
 ![mobile-preview](mobile-preview.jpg) 
 
 ## Features
